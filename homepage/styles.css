@@ -1,0 +1,33 @@
+p {
+    font-size: 20px;
+    margin-left: 70px;
+    margin-top: 60px;
+    color: #6fab7c;
+    font-family: "Fira Sans";
+    line-height: 3;
+    margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 100px;
+  margin-left: 500px;
+  margin-top: 300px;
+  color: #FFFFFF;
+  font-family: "Fira Sans";
+  margin-bottom: 400px;
+}
+
+img {
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+#bgphoto {
+  background-image: url("DSC_1610.JPG");
+  background-size: 100%
+
+}
+
+nav {
+  background-color: #b2dbb2;
+}
